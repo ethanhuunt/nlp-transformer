@@ -9,9 +9,3 @@ https://huggingface.co/allspace/distilbert-base-uncased-finetuned-emotion
 ---
 #### roberta를 Fine tunig한 개체명 인식 다국어(영어, 프랑스어, 독일어, 이탈리아어) 모델 😇아래 링크에서 테스트 가능
 https://huggingface.co/allspace/xlm-roberta-base-finetuned-panx-all
-
-
-_______________
-> 로컬에서 사용 방법
-> install transformers
-> 
