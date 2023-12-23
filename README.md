@@ -6,5 +6,5 @@
 ### distilbert를 Fine tuning한 영어 문장 감정 분류 모델 
 https://huggingface.co/allspace/distilbert-base-uncased-finetuned-emotion
 
-###roberta를 Fine tunig한 개체명 인식 다국어 모델 (영어, 프랑스어, 독일어, 이탈리아어 가능)
+### roberta를 Fine tunig한 개체명 인식 다국어 모델 (영어, 프랑스어, 독일어, 이탈리아어 가능)
 https://huggingface.co/allspace/xlm-roberta-base-finetuned-panx-all
